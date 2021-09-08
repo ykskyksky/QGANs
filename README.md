@@ -4,7 +4,7 @@ Reference paper is [Quant GANs: Deep Generation of Financial Time Series](https:
 
 Project goals:
 
-◆ Implement QuantGANs adjusting the code of [Quant GANs replication](https://github.com/ICascha/QuantGANs-replications) and test on the latest data of Japanese stock index.
+◆ Implement QuantGANs adjusting the code of [Quant GANs replication](https://github.com/ICascha/QuantGANs-replication) and test on the latest data of Japanese stock index.
 
 Result:
 
