@@ -1,0 +1,27 @@
+As long as you run the code in the Google Colaboratory, you do not have to install before running the code.
+
+The below list is just for reference in case you can not use Google Colaboratory.
+
+<Tensorflow>
+from tensorflow.keras.losses 
+from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.utils import Progbar
+from tensorflow.keras.models import load_model, Model
+from tensorflow.keras.layers import Input, Concatenate
+from tensorflow import convert_to_tensor
+import tensorflow
+from tensorflow.random import normal
+
+<Basic libraries>
+from math import floor, ceil
+import pickle
+import numpy 
+import pandas 
+import matplotlib.pyplot 
+from scipy.stats import norm, pearsonr
+from google.colab import files
+
+<Price Data Downloader from yahoo finance>
+from pandas_datareader import data
+import yfinance as yf
+
